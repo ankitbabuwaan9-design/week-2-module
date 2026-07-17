@@ -10,7 +10,7 @@ This repository contains my Week 2 Programming Practice assignment completed in 
 - Insertion Sort
 - Selection Sort
 
-## 📋 Assignment Includes
+## 📋 Assignment Includes.....
 
 - Handwritten Notes
 - Step-by-Step Algorithms
@@ -20,7 +20,7 @@ This repository contains my Week 2 Programming Practice assignment completed in 
 - Execution Proof
 - Final PDF Submission
 
-## 💻 Programming Language
+## 💻 Programming Language.....
 
 - C++
 
